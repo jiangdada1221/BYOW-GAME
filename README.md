@@ -9,7 +9,8 @@
   </div>
  <h3> Operation </h3>
  <li>Press 'w','s','a','d' to move up,down,left,right.</li>
- <img src="http://www.giphy.com/gifs/mA0vxkNOJ7xQe5iyAd" width=350px>
-  
+ <img src="https://media.giphy.com/media/mA0vxkNOJ7xQe5iyAd/giphy.gif" width=350px>
+  <li>Click the world, and it shows what you click is</li>
+   <img src="http://www.giphy.com/gifs/hrKmjrU7CwQ8664nl1/giphy.gif" width=350px>
 <h3>Play the Game</h3>
 <p>   To win the game, you have te </p>
