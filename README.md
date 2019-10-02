@@ -10,7 +10,7 @@
 <img src="http://m.qpic.cn/psb?/V13cnQO90zNVhL/Ob9IRvnQBNHeWLmptL5Fyez87kZLAHjjkfxI8JUSfqY!/b/dLsAAAAAAAAA&bo=OASaBAAAAAARB5I!&rf=viewer_4" width=350px>
 <img src="http://m.qpic.cn/psb?/V13cnQO90zNVhL/D0c4*Igy8Np3BdApamIrnJcxcnWPm7OjhGDtxaEKFcU!/b/dLgAAAAAAAAA&bo=OAR2BAAAAAARB34!&rf=viewer_4" width=350px>
   </div>
-  <img src="http://m.qpic.cn/psb?/V13cnQO90zNVhL/A7UeqnsEW6DL7TQFpkqJbYjNGb3xZ*GXbNMpDiDHPBk!/b/dFMBAAAAAAAA&bo=WAk4BAAAAAARB10!&rf=viewer_4" width=600px>
+  <img src="http://m.qpic.cn/psb?/V13cnQO90zNVhL/A7UeqnsEW6DL7TQFpkqJbYjNGb3xZ*GXbNMpDiDHPBk!/b/dFMBAAAAAAAA&bo=WAk4BAAAAAARB10!&rf=viewer_4" width=700px>
  <h3> Operation </h3>
  <li>Press 'w','s','a','d' to move up,down,left,right.</li>
  <img src="https://media.giphy.com/media/mA0vxkNOJ7xQe5iyAd/giphy.gif" width=350px>
@@ -19,8 +19,8 @@
 <h3>Play the Game</h3>
 <p>   To win the game, you have to move '@' to the exit(yellow wall) in the given time(as shown in the top-left) </p>
 <p> If you win the game, you will see this:</p>
-<img src="http://m.qpic.cn/psb?/V13cnQO90zNVhL/*jldMPCgGwuhFSHtclg0SpgtJIWCSZ.nsfK0.QiWeb4!/b/dIMAAAAAAAAA&bo=OAQ7BAAAAAARBzM!&rf=viewer_4" width=600px>
+<img src="http://m.qpic.cn/psb?/V13cnQO90zNVhL/*jldMPCgGwuhFSHtclg0SpgtJIWCSZ.nsfK0.QiWeb4!/b/dIMAAAAAAAAA&bo=OAQ7BAAAAAARBzM!&rf=viewer_4" width=350px>
 <p> If you lose the game, you will see this: </p>
-<img src="http://m.qpic.cn/psb?/V13cnQO90zNVhL/KSWKXzAgl0KtWTVYX1QWBDcQLiZpNdpxSd4X8r6rAdI!/b/dLYAAAAAAAAA&bo=bgQ4BAAAAAARB2Y!&rf=viewer_4" width=600px>
+<img src="http://m.qpic.cn/psb?/V13cnQO90zNVhL/KSWKXzAgl0KtWTVYX1QWBDcQLiZpNdpxSd4X8r6rAdI!/b/dLYAAAAAAAAA&bo=bgQ4BAAAAAARB2Y!&rf=viewer_4" width=350px>
 
 <p>All the abilities above are mainly done by <a href="https://github.com/jiangdada1221/BYOW-GAME/blob/master/Core/Engine.java">Engine</a>
