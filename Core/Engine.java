@@ -14,7 +14,7 @@ import javax.swing.plaf.ButtonUI;
 import java.awt.*;
 import java.io.File;
 import java.util.Random;
-/* Author Yuepeng Jiang */
+/* implemented by Yuepeng Jiang */
 public class Engine {
     TERenderer ter = new TERenderer();
     /* free to change the width and height. */
