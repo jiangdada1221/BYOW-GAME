@@ -17,7 +17,7 @@
   <li>Click the world, and it shows what you click is</li>
    <img src="https://media.giphy.com/media/hrKmjrU7CwQ8664nl1/giphy.gif" width=350px>
 <h3>Play the Game</h3>
-<p>   To win the game, you have to move '@' to the exit(yellow wall) in the given time(as shown in the top-left) </p>
+<p>   To win the game, you have to move '@' to the exit(yellow wall) in the given time(as shown in the top-left in red color) </p>
 <p> If you win the game, you will see this:</p>
 <img src="http://m.qpic.cn/psb?/V13cnQO90zNVhL/*jldMPCgGwuhFSHtclg0SpgtJIWCSZ.nsfK0.QiWeb4!/b/dIMAAAAAAAAA&bo=OAQ7BAAAAAARBzM!&rf=viewer_4" width=350px>
 <p> If you lose the game, you will see this: </p>
