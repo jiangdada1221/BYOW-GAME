@@ -1,6 +1,6 @@
 # BYOW-GAME
 <h1>Brief Introduction</h1>
-<p> Build Your Own World Game is a 2D tile-based game and your task is to reach the exit in the given time</p>
+<p> Build Your Own World Game(BYOW) is a 2D tile-based game and your task is to reach the exit in the given time</p>
 <h3>Start</h3>
 <p>  In the beginning of the game, press n(N) and then type a seed(starts with n and ends with s and digits between them)</p>
 <p> Also you can press l(L) to load the last game</p>
