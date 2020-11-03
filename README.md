@@ -3,8 +3,8 @@
 <p> Build Your Own World Game(BYOW) is a 2D tile-based game and your task is to reach the exit in the given time</p>
 <h3>Start</h3>
 <p>  In the beginning of the game, press n(N) and then type a seed(starts with n and ends with s and digits between them)</p>
-<p> Also you can press l(L) to load the last game</p>
-<p> '@' means your position and the yellow wall is the exit </p>
+<p> Different seed values will generate different maps. Also you can press l(L) to load the last game</p>
+<p> '@' means your current location and the yellow wall is the location of exit</p>
 
 <div>
 <img src="http://m.qpic.cn/psb?/V13cnQO90zNVhL/Ob9IRvnQBNHeWLmptL5Fyez87kZLAHjjkfxI8JUSfqY!/b/dLsAAAAAAAAA&bo=OASaBAAAAAARB5I!&rf=viewer_4" width=350px>
