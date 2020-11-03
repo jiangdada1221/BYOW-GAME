@@ -1,6 +1,7 @@
 # BYOW-GAME
 <h1>Brief Introduction</h1>
 <p> Build Your Own World Game(BYOW) is a 2D tile-based game and your task is to reach the exit in the given time</p>
+<p>If some of the pictures are missing, just refresh. </p>
 <h3> Installation </h3>
 Download the code from this repository and run 'Main.java' in the 'Core' folder.
 <h3>Start</h3>
